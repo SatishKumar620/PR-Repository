@@ -1,27 +1,26 @@
-```markdown
 # 🌍 PlanetRead Repository
 
 Welcome to the **PlanetRead** project!  
-We're on a mission to make reading **accessible, inclusive, and engaging** — especially for underserved communities around the world.
+We're on a mission to make reading **accessible**, **inclusive**, and **fun** for everyone.
 
 ---
 
 ## ✨ Project Overview
 
-PlanetRead leverages technology to create tools and experiences that promote literacy. This repository contains the codebase for our core applications and services — designed with **accessibility**, **localization**, and **impact** in mind.
+PlanetRead leverages technology to create innovative literacy tools, especially for underserved communities.
 
 ---
 
-## 🗂️ Repository Structure
+## 📁 Repository Structure
 
-```
+```plaintext
 root/
 ├── src/         # Application source code
 ├── docs/        # Technical & user documentation
 ├── tests/       # Unit & integration tests
 ├── public/      # Static files & assets
-├── config/      # Configuration and environment files
-├── scripts/     # Automation and utility scripts
+├── config/      # Configuration & environment files
+├── scripts/     # Automation & utility scripts
 └── README.md    # You're here!
 ```
 
@@ -29,106 +28,86 @@ root/
 
 ## 🚀 Features
 
-- 🧠 **Interactive Literacy Tools** – Fun, engaging tools to support learning.
-- 🌐 **Multilingual Support** – Localized content for diverse audiences.
-- ♿ **Accessibility First** – Inclusive design for all users.
-- 🤝 **Open Source** – Built by the community, for the community.
+- 🧠 **Interactive Literacy Tools** – Engaging and fun tools for readers
+- 🌐 **Multilingual Support** – Localized for diverse languages
+- ♿ **Accessibility First** – Inclusive design for all
+- 🤝 **Open Source** – Built by the community, for the community
 
 ---
 
 ## ⚙️ Getting Started
 
-Set up the project on your local machine in minutes:
+Set up the project on your local machine:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/PlanetRead/PR-Repository.git
-   cd PR-Repository
-   ```
+```bash
+# 1. Clone the repository
+git clone https://github.com/PlanetRead/PR-Repository.git
+cd PR-Repository
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+# 2. Install dependencies
+npm install
 
-3. **Start the development server**
-   ```bash
-   npm start
-   ```
+# 3. Start the development server
+npm start
+```
 
-4. **Open in browser**
-   ```
-   http://localhost:3000
-   ```
+Then visit [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## ✅ Running Tests
-
-Run the full test suite with:
+## 🧪 Running Tests
 
 ```bash
 npm test
 ```
 
-Please make sure tests pass before submitting a pull request!
+Please ensure all tests pass before submitting a pull request.
 
 ---
 
-## 🌱 Contributing
+## 🤝 Contributing
 
-We’d love your help! Here’s how to contribute:
+We welcome all contributors! To get started:
 
-1. **Fork the repo**
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. **Make changes & commit**
-   ```bash
-   git commit -m "Add your feature"
-   git push origin feature/your-feature-name
-   ```
-4. **Open a Pull Request**
+```bash
+# Fork the repo and clone it locally
+git checkout -b feature/your-feature-name
 
-Check out our `CONTRIBUTING.md` for best practices.
+# After changes
+git commit -m "Add your message"
+git push origin feature/your-feature-name
+```
+
+Then open a **Pull Request**.
 
 ---
 
 ## 📚 Documentation
 
-Detailed documentation lives in the `docs/` folder.  
-You’ll find:
+Detailed documentation lives in the `docs/` folder:
 
-- 📖 User Guides  
-- ⚙️ API References  
-- 🛠️ Setup Instructions  
-- 🧱 Code Architecture  
+- User Guides  
+- API Reference  
+- Developer Setup  
 
 ---
 
 ## 📄 License
 
-Licensed under the [MIT License](./LICENSE).  
-Free to use, modify, and distribute.
+This project is under the **MIT License**. See the LICENSE file for full details.
 
 ---
 
 ## ✉️ Contact
 
-Questions, feedback, or collaboration ideas?  
-Drop us a line at: **[support@planetread.org](mailto:support@planetread.org)**
+Need help or want to collaborate? Reach us at:  
+**support@planetread.org**
 
 ---
 
-## 🔗 Connect With Us
+## 🔗 Social Media
 
-Stay updated on news, releases, and events:
+Follow us to stay in the loop:
 
-- [🐦 Twitter](https://twitter.com/PlanetRead)  
-- [💼 LinkedIn](https://www.linkedin.com/company/planetread)
-
----
-
-Made with ❤️ by the PlanetRead Team
-```
+- [Twitter](https://twitter.com/)  
+- [LinkedIn](https://linkedin.com/)
